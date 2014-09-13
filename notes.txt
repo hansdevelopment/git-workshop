@@ -35,5 +35,11 @@ git commit
 git log
 	Shows us all the commits that were made
 
+git diff <old> <new>
+	Shows us what has changed between any 2 commits
+
+git diff
+	Shows us what has changed between our working directory & staging area
+
 git log --oneline
 	Show us all the commits in oneline
