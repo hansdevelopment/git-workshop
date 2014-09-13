@@ -46,6 +46,3 @@ git log --oneline
 
 git add -p
 	Lets us selectively stage changes
-
-git checkout <branch/commit/etc/hash no.>
-	switches to that branch
