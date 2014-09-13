@@ -43,3 +43,6 @@ git diff
 
 git log --oneline
 	Show us all the commits in oneline
+
+git add -p
+	Lets us selectively stage changes
