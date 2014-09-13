@@ -52,3 +52,12 @@ git checkout <branch/commit/etc/hash no.>
 
 git revert <commit>
 	reverses the commit by making another opposite commit
+
+Branches - parallel universes whrer we can work on different things in isolation
+
+git branch
+	gives a list of all branches in the repository
+
+git branch <branch name>
+	creates a new branch
+	
